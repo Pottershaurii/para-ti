@@ -101,19 +101,19 @@ html {
 
 .btn-resumen {
     display: inline-block;
-    padding: 11px 35px;
-    background-color: #7f0792;
+    padding: 11px 35px; 
+    background-color: #0c1f6a;
     color: #F9FAFC;
     text-transform: uppercase;
 }
 
 .btn-resumen:hover {
-    background-color: #7f0792;
+    background-color: #0c1f6a;
 }
 
 .resumen {
     padding: 100px 0;
-    background-color: #E1E2E6;
+    background-color: #F9FAFC;
     position: relative;
 }
 
@@ -128,7 +128,7 @@ html {
 .resumen-content h2 {
     font-size: 50px;
     line-height: 70px;
-    color: #323337;
+    color: #0c1f6a;
     text-transform: uppercase;
     padding: 0 250px;
     margin-bottom: 15px;
@@ -268,13 +268,13 @@ html {
 .btn-datos {
     display: inline-block;
     padding: 11px 35px;
-    background-color: #7f0792;
+    background-color: #071092;
     color: #F9FAFC;
     text-transform: uppercase;
 }
 
 .btn-datos:hover {
-    background-color: #9e0cb4;
+    background-color: #1824cc;
 }
 
 .pasatiempos {
@@ -284,7 +284,7 @@ html {
 .pasatiempos-1 {
     width: 50%;
     padding: 100px 250px 100px 100px;
-    background-color: #E1E2E6;
+    background-color: #eaeaea;
 }
 
 .pasatiempos-2{
@@ -320,7 +320,7 @@ p{
 .btn-pasatiempos {
     display: inline-block;
     padding: 11px 35px;
-    background-color: #1b30b6;
+    background-color: #0c1f6a;
     color: #F9FAFC;
     text-transform: uppercase;
 }
@@ -370,13 +370,13 @@ p{
 .btn-viajes {
     display: inline-block;
     padding: 11px 35px;
-    background-color: #182aa4;
+    background-color: #0c1f6a;
     color: #F9FAFC;
     text-transform: uppercase;
 }
 
 .btn-viajes:hover {
-    background-color: #2542ff;
+    background-color: #223bdc;
 }
 
 .btn-1 {
